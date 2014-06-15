@@ -1,0 +1,46 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/exist101" owner="admin" group="a" mode="755" created="2013-11-11T09:13:10+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="get-play-information-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:01:21+01:00" modified="2013-11-14T15:01:21+01:00" filename="get-play-information-1.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="plays-basic-3.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-3.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="playlist-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="playlist-2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="playlist-1b.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="playlist-1b.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="playlist-1a.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="playlist-1a.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="search-2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="log-module.xqm" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="log-module.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="analyse-play-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyse-play-2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="search-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="search-1.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="plays-basic-4.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-4.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="analyse-play-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyse-play-1.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="plays-basic-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-2.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="plays-basic-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-1.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="data" filename="data"/>
+</collection>

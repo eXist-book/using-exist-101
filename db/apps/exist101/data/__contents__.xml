@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/exist101/data" owner="admin" group="a" mode="755" created="2013-11-11T09:13:17+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="hamlet.xml" owner="admin" group="dba" mode="775" created="2013-11-14T15:00:30+01:00" modified="2013-11-14T15:00:30+01:00" filename="hamlet.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="macbeth.xml" owner="admin" group="dba" mode="775" created="2013-11-14T15:00:34+01:00" modified="2013-11-14T15:00:34+01:00" filename="macbeth.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="r%20and%20j.xml" owner="admin" group="dba" mode="775" created="2013-11-14T15:00:38+01:00" modified="2013-11-14T15:00:38+01:00" filename="r and j.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
