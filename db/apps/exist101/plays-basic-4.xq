@@ -29,7 +29,7 @@ return
                 return
                 <li>
                     {string($play)} ({string($play/@name)}) 
-                    <a href="analyse-play.xq?uri={encode-for-uri($play/@uri)}">analysis</a>
+                    <a href="analyze-play.xq?uri={encode-for-uri($play/@uri)}">analysis</a>
                 </li>
             }
             </ul>

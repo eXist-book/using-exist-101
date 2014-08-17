@@ -24,7 +24,7 @@
     <resource type="XMLResource" name="collection.xconf" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="collection.xconf" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="analyse-play-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyse-play-2.xq" mimetype="application/xquery">
+    <resource type="BinaryResource" name="analyze-play-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyze-play-2.xq" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="BinaryResource" name="search-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="search-1.xq" mimetype="application/xquery">
@@ -33,7 +33,7 @@
     <resource type="BinaryResource" name="plays-basic-4.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-4.xq" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="analyse-play-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyse-play-1.xq" mimetype="application/xquery">
+    <resource type="BinaryResource" name="analyze-play-1.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="analyze-play-1.xq" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
     <resource type="BinaryResource" name="plays-basic-2.xq" owner="admin" group="a" mode="644" created="2013-11-14T15:02:58+01:00" modified="2013-11-14T15:02:58+01:00" filename="plays-basic-2.xq" mimetype="application/xquery">
